@@ -1,1 +1,1 @@
-This project uses django and react to run a music controller where different people might be listening from the same device but we can skip songs based on votes, it uses spotify
+This project uses django and react to run a music controller where different people might be listening from the same device but we can skip songs based on votes, it uses spotify.
